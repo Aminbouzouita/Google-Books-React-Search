@@ -1,0 +1,16 @@
+#inputName {
+    margin-top: 130px;
+    margin-left: 106px;
+}
+.detail {
+    margin-top: 20px;
+}
+button{
+    color: white;
+    background-color: rgb(10, 37, 156);
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+button:hover {
+    opacity: 85%;
+}
