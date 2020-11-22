@@ -1,0 +1,8 @@
+.navbar-link {
+    margin-right: 30px;
+    color: white;
+}
+
+.navbar-link:hover {
+    color: slategrey;
+}
