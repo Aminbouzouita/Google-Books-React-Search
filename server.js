@@ -16,7 +16,7 @@ if (process.env.NODE_ENV === "production") {
 app.use(routes);
 
 // Connect to the Mongo DB
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/reactbooksearch"),
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/Books"),
 {
   useCreateIndex: true,
   useNewUrlParser: true,
