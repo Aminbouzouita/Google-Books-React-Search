@@ -20,7 +20,7 @@ https://aminbouzouita.github.io/Google-Books-React-Search/.
 #### App Link On Heroku:
 https://goooglebookssearch.herokuapp.com/books/search
 #### Screenshots:
-![screenshot](./Screenshot/1.png)
-![screenshot](./Screenshot/2.png)
-![screenshot](./Screenshot/3.png)
-![screenshot](./Screenshot/4.png)
+![screenshot](./Screenshots/1.png)
+![screenshot](./Screenshots/2.png)
+![screenshot](./Screenshots/3.png)
+![screenshot](./Screenshots/4.png)
